@@ -1,0 +1,23 @@
+module testbench;
+
+
+ reg [7:0] a ; 
+ reg [7:0] b ; 
+ reg L ; 
+ reg En ; 
+ reg reset ;
+ reg clock ; 
+
+ reg [1:0] s ;
+
+ wire [7:0] f ; 
+ wire cout ; 
+
+
+
+
+
+
+
+
+endmodule

@@ -1,0 +1,39 @@
+//first definition
+
+reg x1;
+reg x2;
+reg s;
+
+wire f;
+
+//second the instatation
+
+mux mux_UUT (.x1(x1),
+             .x2(x2),
+             .s(s),
+             .f(f),
+//moel the input and monitor the output
+ initial
+begin 
+    x1:1'b0;
+    x2:1'b0;
+    s=1'b0;
+    
+    #10;
+    
+    x1=1'b0;
+    x2=1'b1;
+    s=1'b0;
+
+    #10
+    x1=1'b1;
+    x2=1'b0;
+    s=1'b1;
+    
+    #20
+    
+    $stop;
+    end
+    
+    endmodule
+

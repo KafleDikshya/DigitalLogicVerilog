@@ -1,0 +1,32 @@
+
+module BCDcount(Clock, Clear,A,BCD1,BCD0)
+       input Clock;
+       input Clear;
+       Input A;
+
+       output (reg:3:0) BCD1;
+       output (reg:3:0) BCD0;
+
+       always@(posedge Clock)
+       begin
+         if (clear)
+          begin
+          BCD1<=0;
+          BCD0<=0;
+         end
+        else if (As)
+                if (BCD0==4'b1001)
+                   begin
+                   BCD0 <=0;
+                if (BCD1==4'b1001)
+                    BCD1<=0;
+                else
+                   BCD1<=BCD1+1;
+                end
+            else
+              BCDO<= BCDO+1;
+
+    end 
+endmodule
+
+

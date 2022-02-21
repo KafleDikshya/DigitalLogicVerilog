@@ -1,0 +1,205 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3
+T_opt
+!s110 1574401415
+VnR@IQ_290=P5YlNak>JKo0
+04 9 4 work testbench fast 0
+=1-b86b234c19c8-5dd77587-356-2104
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+vALU
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 H0<C?gam;RNfbm4hR740G1
+IDeB@GG;B`Ym7K3J^dMg6B3
+R0
+w1574395078
+8C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/alu.v
+FC:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/alu.v
+L0 52
+Z3 OL;L;10.5;63
+Z4 !s108 1574395811.000000
+!s107 C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/alu.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@l@u
+vcounter8bit
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 IPRcEI8;_3nC;giWhK;U@2
+I@NfO5IPb`0O9bhQgH<J1f0
+R0
+w1574393772
+8C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/counter.v
+FC:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/counter.v
+L0 3
+R3
+R4
+!s107 C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/counter.v|
+!i113 0
+R5
+R1
+vfastadder
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 OI[cCc[^fNIJM0O;Io3==0
+I[HiaUZOKY>EVKRCRPLP8a1
+R0
+w1574395405
+8C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/fastadder.v
+FC:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/fastadder.v
+L0 2
+R3
+R4
+!s107 C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/fastadder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/fastadder.v|
+!i113 0
+R5
+R1
+vmux2to1
+Z6 !s110 1574395811
+!i10b 1
+!s100 HU`FI7i26?lG4cXS_OST81
+IoN7FECK;ERfdJlLkgb@SE2
+R2
+R0
+Z7 w1574395566
+Z8 8C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/mux4-1.v
+Z9 FC:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/mux4-1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z10 !s107 C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/mux4-1.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/mux4-1.v|
+!i113 0
+R5
+R1
+vmux4to1
+R6
+!i10b 1
+!s100 Fbl<N>g?YCN6<K0XEFc]W3
+IA4=d5j9<19bV7V56O1@0F2
+R2
+R0
+R7
+R8
+R9
+L0 20
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 0
+R5
+R1
+vreg8
+R6
+!i10b 1
+!s100 K>2mR[KOaKS4X=PgGIAWK0
+Ie3fI@zz>zF9if665^K5Le3
+R2
+R0
+w1574392259
+8C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/8bitasynchronous.v
+FC:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/8bitasynchronous.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/8bitasynchronous.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/8bitasynchronous.v|
+!i113 0
+R5
+R1
+vshiftReg
+!s110 1574393777
+!i10b 1
+!s100 7h0=6ZC`aP^nAo6^6T8@@2
+Ibc3Dm`J[^=aSFKi`BPA[X0
+R2
+R0
+w1574391725
+Z12 8C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/shiftReg.v
+Z13 FC:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/shiftReg.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1574393777.000000
+Z14 !s107 C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/shiftReg.v|
+Z15 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/shiftReg.v|
+!i113 0
+R5
+R1
+nshift@reg
+vshiftregister8bit
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 adhVQ;aG[PLBID6I=l5>D2
+IWok`9mXdCGF`W3ohRkZ2E3
+R0
+w1574393972
+R12
+R13
+L0 3
+R3
+R4
+R14
+R15
+!i113 0
+R5
+R1
+vtestbench
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 Xg67TWF^:5DAXJN`DDzhU0
+IgdEXcVCgF[c>QKRYXEE^U0
+R0
+w1574394294
+8C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/testbench.v
+FC:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/testbench.v
+L0 3
+R3
+R4
+!s107 C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/testbench.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Toshiba/Desktop/3rd Semester/Digital Logic Design/Digital Logic Experiment/Task 3/testbench.v|
+!i113 0
+R5
+R1
